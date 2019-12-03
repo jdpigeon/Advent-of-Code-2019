@@ -1,0 +1,8 @@
+{
+  "name": "Advent-of-Code-2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jdpigeon/Advent-of-Code-2019.git",
+  "author": "jdpigeon <morrisondano@gmail.com>",
+  "license": "MIT"
+}
